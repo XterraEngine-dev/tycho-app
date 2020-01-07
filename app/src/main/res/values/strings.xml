@@ -5,4 +5,8 @@
     <string name="action_settings">Settings</string>
     <string name="button_on_label">Turn On</string>
     <string name="button_off_label">Turn Off</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="signed_out">Signed Out</string>
 </resources>
